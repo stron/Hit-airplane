@@ -1,6 +1,6 @@
 #include "AppDelegate.h"
 #include "WelcomeScene.h"
-
+// welcome.h appdlegate.h
 USING_NS_CC;
 
 AppDelegate::AppDelegate() {
